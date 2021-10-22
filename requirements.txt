@@ -3,4 +3,4 @@ numpy
 matplotlib
 Pillow
 sklearn
-pandas 1.2.4
+pandas
