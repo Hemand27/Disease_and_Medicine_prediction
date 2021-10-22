@@ -4,4 +4,4 @@ numpy
 matplotlib
 Pillow
 sklearn
-pickle
+
