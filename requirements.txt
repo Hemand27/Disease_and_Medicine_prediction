@@ -2,7 +2,6 @@ streamlit
 pandas
 numpy
 matplotlib
-keras
-tensorflow
 Pillow
-opencv-python
+sklearn
+pickle
