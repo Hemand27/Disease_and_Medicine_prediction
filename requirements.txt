@@ -1,6 +1,5 @@
 streamlit
 numpy
 matplotlib
-Pillow
 sklearn
-pandas
+pandas==1.2.4
